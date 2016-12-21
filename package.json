@@ -1,0 +1,16 @@
+{
+  "name": "learn-you-node",
+  "version": "1.0.0",
+  "description": "my learnyounode solutions",
+  "main": "none.js",
+  "dependencies": {
+    "bl": "^1.1.2",
+    "moment": "^2.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "none.js"
+  },
+  "author": "Ameen Demidem",
+  "license": "ISC"
+}
